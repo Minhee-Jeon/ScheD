@@ -121,3 +121,4 @@ yarn-error.log*
 package.json
 yarn.lock
 .vscode/settings.json
+src/all.js
